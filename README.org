@@ -1,4 +1,4 @@
-* how to spell check code in CI
+* how to spell check code in CI - test
 
 [[https://github.com/redguardtoo/spell-check-code-in-ci/actions/workflows/test.yml][https://github.com/redguardtoo/spell-check-code-in-ci/actions/workflows/test.yml/badge.svg]]
 
